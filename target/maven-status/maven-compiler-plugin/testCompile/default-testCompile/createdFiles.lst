@@ -1,2 +1,2 @@
-com\restful\booker\testbase\TestBase.class
-com\restful\booker\testsuit\BookingCrudTest.class
+com\gorest\testbase\TestBase.class
+com\gorest\testsuite\GoRestCrudTest.class
